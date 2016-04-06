@@ -1,0 +1,22 @@
+{
+  "name": "general-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenqingyu/general-scripts.git"
+  },
+  "author": "Thomas Yu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wenqingyu/general-scripts/issues"
+  },
+  "homepage": "https://github.com/wenqingyu/general-scripts#readme",
+  "dependencies": {
+    "nodemailer": "^2.3.0"
+  }
+}
